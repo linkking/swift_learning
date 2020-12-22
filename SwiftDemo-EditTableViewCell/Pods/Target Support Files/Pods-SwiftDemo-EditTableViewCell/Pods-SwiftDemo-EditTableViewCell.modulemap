@@ -1,0 +1,6 @@
+framework module Pods_SwiftDemo_EditTableViewCell {
+  umbrella header "Pods-SwiftDemo-EditTableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
